@@ -1,7 +1,7 @@
 # Plum
 As a member from the FT-Web12 was almost on the verge of completion of the second unit and it was during the final week which is depicted as the construct week in their coding Bootcamp where the students as a group of 4 build the clone of any major website and the one allotted for my team was “Plum.com”.
 
-The Second Unit had the following topics in its curriculum:
+# The Second Unit had the following topics in its curriculum:
 
 Advanced Javascript datatypes
 
@@ -22,43 +22,43 @@ Promises and their uses
 We implemented problem solving using basic data structures and we conducted regular contests to enhance the problem solving ability of the candidate.
 
 
-Project description, the team and the work spilt up :
+# Project description, the team and the work spilt up :
 
 Plum is a website that is beauty product website.
 
 As a team of 4, we rendered the major parts of the website where I was allocated 2 pages.
 
-Main Landing Page:
+# Main Landing Page:
 
 This is the Landing page when the user enters the website for the first time this page will show up. We have updated some of the hover effects and cool sliders and carousel.
 
 ![2022-02-11](https://user-images.githubusercontent.com/91532940/153694964-be696910-b62e-45ed-b4ea-976dec1915df.png)
 
-SignUp Page: 
+# SignUp Page: 
 
 Here user will have to register himself by giving their Email, Name and creating a password
 
 ![2022-02-12 (4)](https://user-images.githubusercontent.com/91532940/153695127-3b5c26e2-7177-4327-9ba4-eb04ccd85e24.png)
 
-Different Product Page:
+# Different Product Page:
 
 Here user can see different products available.
 
 ![2022-02-12](https://user-images.githubusercontent.com/91532940/153695155-f76bc61d-70b5-4ef7-9748-2748a69f8b89.png)
 
-Cart Page:
+# Cart Page:
 
 Here user can view his product and see the total amount.
 
 ![2022-02-12 (1)](https://user-images.githubusercontent.com/91532940/153695184-8c2582d9-acd5-4350-9bf3-3fdb8f1e1ff5.png)
 
-Billing Address Page:
+# Billing Address Page:
 
 User will have to give his details.
 
 ![2022-02-12 (2)](https://user-images.githubusercontent.com/91532940/153695199-d9343787-fc92-4a36-baaf-986cc74ef03a.png)
 
-Payment Page:
+# Payment Page:
 
 Payment required for the products.
 
